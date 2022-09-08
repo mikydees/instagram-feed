@@ -1,0 +1,22 @@
+.wrapper{
+    text-align:center ;
+border: 5px solid black;
+margin: auto;
+width: 500px;
+margin-bottom: 10px;
+}
+body{
+    text-align: center;
+}
+.header{
+    display: flex;
+}
+.header p{
+margin-left: auto;
+}
+img{
+    max-width: 100%;
+}
+.footer{ 
+    width: 300px;
+}
